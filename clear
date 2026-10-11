@@ -3,16 +3,14 @@
 [1m--- a/index.html[m
 [1m+++ b/index.html[m
 [36m@@ -7,10 +7,6 @@[m
-</head>[m
-
-<body>[m
+ </head>[m
+ <body>[m
      <p>hlo how are you </p>[m
-     [31m- <h2>hloo brother(button)</h2>[m
+[31m-    <h2>hloo brother(button)</h2>[m
      <h2>hloo brother(dropdown)</h2>[m
-     [31m- <p>new para2</p>[m
-     [31m-[m
-     [31m-[m
-</body>[m
-
-</html>[m
-\ No newline at end of file[m
+[31m-    <p>new para2</p>[m
+[31m-[m
+[31m-[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
